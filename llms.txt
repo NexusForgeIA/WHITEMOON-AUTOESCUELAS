@@ -1,32 +1,40 @@
 # WhiteMoon Autoescuela
 
-> Autoescuela en Madrid. Carnet de coche B, carnet de moto (AM, A1, A2 y A), carnets de vehículos pesados (camión C, autobús D y tráiler C+E), cursos intensivos, recuperación de puntos y cursos teóricos. Primera información sin compromiso y sin coste.
+> Autoescuela en Majadahonda (Madrid). Permiso B (coche), permiso de moto (AM, A1, A2 y A), cursos intensivos, clases teóricas con tests, clases prácticas, recuperación de puntos y renovación de carnet. Primera información sin compromiso y sin coste.
 
 ## Contacto
 - Teléfono: +34 643 199 580
 - WhatsApp: https://wa.me/34643199580
 - Email: comercial@whitemoon.es
 - Ubicación: Majadahonda, Comunidad de Madrid (España)
+- Horario: lunes a viernes de 9:00 a 21:00 y sábados de 10:00 a 14:00
 - Web: https://nexusforgeia.github.io/WHITEMOON-AUTOESCUELAS/
 
-## Carnets y cursos
-- Carnet de coche B: clases prácticas y teóricas para el permiso B.
-- Carnet de moto: permisos AM, A1, A2 y A con clases prácticas.
-- Carnets de vehículos pesados: camión C, autobús D y tráiler C+E.
-- Cursos intensivos: preparación en menos tiempo, con horarios flexibles.
-- Recuperación de puntos: cursos presenciales con todas las garantías.
-- Cursos teóricos: preparación del examen teórico de la DGT.
+## Permisos y cursos
+- Permiso B (coche): apertura de expediente, plataforma de tests, teórica presencial, prácticas con doble mando y solicitud de examen a la DGT.
+- Permiso de moto: AM (ciclomotor), A1, A2 y A, con maniobras en circuito y circulación en vía abierta.
+- Cursos intensivos: teórica concentrada y varias prácticas por semana; plazas limitadas por convocatoria.
+- Clases teóricas y tests: clases en aula, plataforma de tests desde el móvil, simulacros y repaso de fallos frecuentes.
+- Clases prácticas: individuales, de 45 minutos, con profesor titulado y coches con doble mando.
+- Recuperación de puntos: cursos presenciales con la duración y el contenido que marca la normativa.
+- Renovación de carnet: acompañamiento en el reconocimiento médico y en la solicitud de renovación.
 
 ## Zona de trabajo
-Madrid: Majadahonda, Pozuelo de Alarcón, Las Rozas, Boadilla del Monte, Villaviciosa de Odón, Villanueva de la Cañada, Brunete, Alcorcón y Móstoles.
+Madrid: Majadahonda, Pozuelo de Alarcón, Las Rozas de Madrid, Boadilla del Monte, Villaviciosa de Odón, Villanueva de la Cañada, Brunete, Alcorcón, Móstoles y resto de la Comunidad de Madrid.
+
+## Cómo se empieza
+1. Cuentas qué permiso te interesa por teléfono, WhatsApp o por el chat de la web.
+2. Se te explica qué incluye el curso, los plazos y las formas de pago antes de decidir.
+3. Matrícula, apertura de expediente y acceso a los tests; empiezan las clases teóricas.
+4. Se organizan las clases prácticas según tu disponibilidad y se presenta la solicitud de examen a la DGT.
 
 ## Garantías
-- Primera información sin compromiso y sin coste: se explican carnets, precios y plazos antes de empezar.
-- Precios claros y por escrito: lo presupuestado es lo que se paga, sin cargos sorpresa.
-- Profesores titulados y trato cercano: se explica cada paso de la formación.
-- Coches modernos y cuidados para las clases prácticas.
-- Se estudian opciones de financiación a medida.
+- Primera información sin compromiso y sin coste.
+- Precios por escrito antes de matricularse: lo presupuestado es lo que se paga.
+- Profesores titulados y coches de prácticas con doble mando.
+- Se estudian formas de pago fraccionado.
 
 ## Notas
-- No se publican precios, reseñas ni cifras: es una demo genérica de sector. El espacio de reseñas está reservado para valoraciones reales verificadas de Google.
-- El único canal conversacional es el asistente "Marta" en la web, que recoge carnet o curso de interés, zona, nombre y teléfono para devolver la llamada.
+- No se publican precios, reseñas ni cifras de resultados: es una demo genérica de sector, no una autoescuela en activo. No hay Review ni aggregateRating en el marcado.
+- Los plazos para sacarse el carnet dependen del ritmo de cada alumno y de las fechas de examen de la DGT: no se prometen tiempos cerrados.
+- El único canal conversacional es el asistente "LEX" de la web, que recoge el permiso de interés, la modalidad (normal o intensiva), el nombre y el teléfono para devolver la llamada.
